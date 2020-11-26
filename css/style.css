@@ -7,6 +7,9 @@ body {
     background: #fff;
     }
 
+    <style>{
+        text-transform: uppercase;
+    }
 /* --------------------------------------
 Global Typography
 ------------------------------------------*/
