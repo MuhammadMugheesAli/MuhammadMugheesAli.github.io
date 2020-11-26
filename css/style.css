@@ -6,10 +6,9 @@ body {
     font-weight : 400;
     background: #fff;
     }
-
-    <style>{
-        text-transform: uppercase;
-    }
+.logo{
+    font-size: large;
+}
 /* --------------------------------------
 Global Typography
 ------------------------------------------*/
